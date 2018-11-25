@@ -3,6 +3,10 @@ Application for the network control of a vehicle we create in ECE 306 at NC Stat
 
 This application is used for the remote control of the ECE 306 RC Cars.
 
+For edits, the 2 files you have to change are MainPage.xaml for design changes, or MainPage.xaml.cs for edits to how commands work/message formatting.
+
+This application was made using Microsoft Visual Studio 2017, using the blank template for a Visual C# UWP Application. Because of this, this program will only work on Windows 10, theoretically any version of it, although I have only tested with the most recent update.
+
 Network Protocol: Through the use of StreamSocket, we set up a connection on first connect, and here we get to the first assumption: consistent connection to your vehicle. There is currently no error handling for a connection loss.
 Message Style: I use a non-standard protocol in this for transmission, but it can be replaced with whatever is needed for you. The current protocol goes like:
 * " P=(Pin) (Command)=(Time)"
