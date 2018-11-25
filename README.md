@@ -1,5 +1,5 @@
 # ECE_306_Controller_App
-Application for the network control of a vehicle we create in ECE 306 and NC State University
+Application for the network control of a vehicle we create in ECE 306 at NC State University
 
 This application is used for the remote control of the ECE 306 RC Cars.
 
