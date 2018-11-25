@@ -7,7 +7,7 @@ Network Protocol: Through the use of StreamSocket, we set up a connection on fir
 Message Style: I use a non-standard protocol in this for transmission, but it can be replaced with whatever is needed for you. The current protocol goes like:
 * " P=(Pin) (Command)=(Time)"
 When using the xbox controller, the formatting of the message is:
-* " P=(Pin) l=(PWM_value)  P=(Pin) r=(PWM_value)"
+* " P=(Pin) l=(PWM_value)  P=(Pin) r=(PWM_value)", with PWM values between -10,000 and 10,000
 I will try to comment at all location this style is used to simplify the adjustment of the code.
 
 Controller Usage: Once connected, clicking the "XBOX" button will connect any Xbox One Controller currently plugged in/connected to the PC.
