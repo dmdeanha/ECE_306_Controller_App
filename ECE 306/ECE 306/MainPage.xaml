@@ -5,7 +5,7 @@
     xmlns:local="using:ECE_306"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Width="840" MaxWidth="840" MaxHeight="640" MinHeight="640" MinWidth="840" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch">
 
     <Grid x:Name="background" Background="White">
         <StackPanel Margin="23,0,0,98" Height="205" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="212">
@@ -77,8 +77,8 @@
         <TextBlock x:Name="port_label" HorizontalAlignment="Left" Margin="23,82,0,0" Text="Port" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="43" FontSize="18"/>
         <Grid Height="77" Margin="0,563,0,0" Width="1024">
             <RelativePanel>
-                <Grid x:Name="status_block" Background="#FFCC0000" Height="77" VerticalAlignment="Top" Margin="0,0,-1024,0"/>
-                <TextBlock x:Name="connection_status" HorizontalAlignment="Left" Margin="9,14,0,12" Text="Status: Disconnected" TextWrapping="Wrap" VerticalAlignment="Center" Height="51" Width="804" FontSize="36" FontFamily="Arial Black" FontWeight="Bold" Foreground="White"/>
+                <Grid x:Name="status_block" Background="#FFCC0000" Height="77" VerticalAlignment="Top" Margin="0,0,-842,0"/>
+                <TextBlock x:Name="connection_status" Margin="9,14,0,12" Text="Status: Disconnected" TextWrapping="Wrap" VerticalAlignment="Center" Height="51" FontSize="36" FontFamily="Arial Black" FontWeight="Bold" Foreground="White"/>
             </RelativePanel>
         </Grid>
         <ListBox x:Name="log_list_box" HorizontalAlignment="Left" Height="183" Margin="280,318,0,0" VerticalAlignment="Top" Width="554" RequestedTheme="Light"/>
@@ -86,7 +86,7 @@
         <TextBlock x:Name="my_message_test" HorizontalAlignment="Left" Margin="280,522,0,0" Text="No Message" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBox x:Name="manual_command_textbox" HorizontalAlignment="Left" Margin="386,29,0,0" Text="" VerticalAlignment="Top" Width="322"/>
         <TextBlock HorizontalAlignment="Left" Margin="318,33,0,0" Text="Manual:" TextWrapping="Wrap" VerticalAlignment="Top" Height="28"/>
-        <Button Content="Send" HorizontalAlignment="Left" Margin="729,29,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="manual_button_send" Content="Send" HorizontalAlignment="Left" Margin="729,29,0,0" VerticalAlignment="Top" Click="manual_button_send_Click"/>
 
     </Grid>
 </Page>

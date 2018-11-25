@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>6e32ed5f-dfef-49a0-82a3-2e3011717d9d</PackageIdentityName>
     <PackageIdentityPublisher>CN=Ziggleflig</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,26 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>AB87A2BC50F5422228C614603042490235AC4F4790C53D847C54FBD0D15CA6CF</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_1.0.0.0_x86__fpxhmmgger0my</RegisteredPackageMoniker>
+    <LayoutDir>C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C8601230214C3A3FFCCEC54E33829E313AECA42971E2E1AF9A370EF6FE95025E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_1.0.2.0_x86__fpxhmmgger0my</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_fpxhmmgger0my!App</RegisteredUserModeAppID>
     <RegisteredPackageID>6e32ed5f-dfef-49a0-82a3-2e3011717d9d</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Ziggleflig</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-25T03:20:31.531</Modified>
+      <Modified>2018-11-25T18:30:55.446</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.exe">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.exe">
       <PackagePath>entrypoint\ECE 306.exe</PackagePath>
-      <Modified>2018-11-25T03:20:25.965</Modified>
+      <Modified>2018-11-25T18:30:52.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ziggleflig\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,60 +495,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T03:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-11-23T00:51:13.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-11-25T02:21:33.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:27:38.703</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:29:22.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:36:04.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:37:33.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:44:24.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-11-25T02:45:49.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.xr.xml">
       <PackagePath>ECE 306.xr.xml</PackagePath>
-      <Modified>2018-11-24T01:06:01.988</Modified>
+      <Modified>2018-11-25T04:47:31.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T21:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-25T03:20:29.498</Modified>
+      <Modified>2018-11-25T18:30:54.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\ECE 306.exe">
+    <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\ECE 306.exe">
       <PackagePath>ECE 306.exe</PackagePath>
-      <Modified>2018-11-25T03:20:31.445</Modified>
+      <Modified>2018-11-25T18:30:55.409</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

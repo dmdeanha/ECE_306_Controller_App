@@ -326,6 +326,11 @@ namespace ECE_306
         {
             send_message("P=" + pin_input.Password + " X=" + time_input.Text); //Edit message formatting here
         }
+
+        private void manual_button_send_Click(object sender, RoutedEventArgs e)
+        {
+            send_message(manual_command_textbox.Text); 
+        }
     }
 }
 

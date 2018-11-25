@@ -211,3 +211,5 @@ c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\qualifiers.txt
 c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\qualifiers.txt.intermediate
 c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Debug\ECE 306.csprojResolveAssemblyReference.cache
+C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\ForBundle\AppxManifest.xml
