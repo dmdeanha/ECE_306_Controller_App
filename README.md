@@ -6,8 +6,10 @@ This application is used for the remote control of the ECE 306 RC Cars.
 Network Protocol: Through the use of StreamSocket, we set up a connection on first connect, and here we get to the first assumption: consistent connection to your vehicle. There is currently no error handling for a connection loss.
 Message Style: I use a non-standard protocol in this for transmission, but it can be replaced with whatever is needed for you. The current protocol goes like:
 * " P=(Pin) (Command)=(Time)"
+
 When using the xbox controller, the formatting of the message is:
 * " P=(Pin) l=(PWM_value)  P=(Pin) r=(PWM_value)", with PWM values between -10,000 and 10,000
+
 I will try to comment at all location this style is used to simplify the adjustment of the code.
 
 Controller Usage: Once connected, clicking the "XBOX" button will connect any Xbox One Controller currently plugged in/connected to the PC.
