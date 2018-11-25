@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\MDIL\ECE 306.mdilexe"
+"/i:c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\Native\ECE 306.exe"
+"/pdbAltPath:c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc"
+"/res:c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

@@ -1,0 +1,11 @@
+/out:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\\"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\\"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\tools\x86\ilc\lib\Private\\"
+/ref:"c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\tools\x86\ilc\csc"

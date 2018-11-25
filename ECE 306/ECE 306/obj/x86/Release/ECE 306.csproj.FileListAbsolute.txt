@@ -1,0 +1,420 @@
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\App.xbf
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\MainPage.xbf
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ECE 306.xr.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ECE 306.exe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\resources.pri
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\AppxManifest.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Adapters.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\AssemblyInfo.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\StoreLogo.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\clrcompression.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Data.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\DotNetNative.debugger-services-def.json
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\ECE 306.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\ECE 306.exe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\ECE 306.xr.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\Helpers.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\ImplTypes.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\PInvoke.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\resources.pri
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\SafeTypes.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ilc\SharedStubs.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\ECE 306.build.appxrecipe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\Microsoft.CSharp.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Core.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Numerics.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Serialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.Web.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Windows.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.Linq.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.Serialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\mscorlib.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\Microsoft.VisualBasic.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Collections.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.Tools.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.Tracing.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Globalization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Globalization.Calendars.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Resources.ResourceManager.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Handles.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.InteropServices.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Text.Encoding.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Text.Encoding.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Tasks.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Timer.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\Microsoft.Win32.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.Debug.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.FileSystem.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.Sockets.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\clrcompression.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Private.Uri.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.AppContext.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Buffers.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Collections.Concurrent.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Collections.Immutable.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Collections.NonGeneric.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Collections.Specialized.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ComponentModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ComponentModel.Annotations.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Data.Common.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.Contracts.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Diagnostics.StackTrace.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Dynamic.Runtime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Globalization.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.Compression.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.Compression.ZipFile.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.IsolatedStorage.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Linq.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Linq.Expressions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Linq.Parallel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Linq.Queryable.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.Http.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.Http.Rtc.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.NameResolution.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.NetworkInformation.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.Requests.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.WebHeaderCollection.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.WebSockets.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Net.WebSockets.Client.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Numerics.Vectors.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ObjectModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Private.DataContractSerialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Private.ServiceModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.Context.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.DispatchProxy.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.Emit.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.Metadata.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Reflection.TypeExtensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Numerics.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Serialization.Json.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Claims.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Cryptography.Cng.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Security.Principal.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.Duplex.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.Http.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.NetTcp.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.ServiceModel.Security.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Text.Encoding.CodePages.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Text.RegularExpressions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Overlapped.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.ReaderWriter.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.XDocument.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.XmlDocument.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Release\System.Xml.XmlSerializer.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\App.g.i.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\App.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\MainPage.g.i.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\MainPage.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\XamlTypeInfo.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\App.xaml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\MainPage.xaml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\App.xbf
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\MainPage.xbf
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\XamlSaveStateFile.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ECE 306.csproj.CoreCompileInputs.cache
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ECE 306.csproj.CopyComplete
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ECE 306.exe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ResourceHandlingTask.state
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ECE 306.csproj.GenerateResource.Cache
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\priconfig.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\priconfig.xml.intermediate
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\layout.resfiles
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\layout.resfiles.intermediate
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\resources.resfiles
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\resources.resfiles.intermediate
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\pri.resfiles
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\pri.resfiles.intermediate
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\qualifiers.txt
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\qualifiers.txt.intermediate
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ProjectArchitectures.txt
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\ECE 306.xr.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\AppxManifest.xml
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\ECE 306.exe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Core.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Numerics.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Windows.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\mscorlib.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Collections.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Globalization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Private.Uri.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.AppContext.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Buffers.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ComponentModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Data.Common.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.Compression.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Linq.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.Http.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.Requests.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ObjectModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Claims.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Security.Principal.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\resources.pri
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\clrcompression.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc.ECE 306.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\Adapters.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\AssemblyInfo.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\Data.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\Helpers.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\ImplTypes.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\PInvoke.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\SafeTypes.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ECE 306.McgInterop\SharedStubs.g.cs
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\gkargs.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.closure.csv
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.csv
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.forwarders.csv
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.ilexe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.ilexe.ILTransformTask.repro
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.McgInterop.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.McgInterop.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.metadata
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.reflectionlog.csv
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\ECE 306.res
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Contracts.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Contracts.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Debug.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Debug.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Calendars.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Calendars.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Reflection.DispatchProxy.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Reflection.DispatchProxy.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.Extensions.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.Extensions.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\MDIL\ECE 306.mdilexe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\MDIL\ECE 306.mdilpdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\MDIL\ECE 306.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\Native.res
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\Native\DotNetNative.debugger-services-def.json
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\Native\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ECE 306.exe
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ECE 306.pdb
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\rhbindargs.ECE 306.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\sgargs.rsp
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+c:\users\ziggleflig\source\repos\ECE 306\ECE 306\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.pdb
