@@ -3,7 +3,7 @@ Application for the network control of a vehicle we create in ECE 306 at NC Stat
 
 This application is used for the remote control of the ECE 306 RC Cars.
 
-IF YOU JUST WANT TO INSTALL: Go to ECE_306_Controller_App/ECE 306/ECE 306/AppPackages/ECE 306_2.0.0.0_Debug_Test/Add-AppDevPackage.ps1 and run that with powershell.
+IF YOU JUST WANT TO INSTALL: Go to ECE_306_Controller_App/ECE 306/ECE 306/AppPackages/ECE 306_2.0.0.0_Debug_Test , take that entire folder out/download, and run the file "Add-AppDevPackage.ps1" and run that with powershell.
 
 For edits, the 2 files you have to change are MainPage.xaml for design changes, or MainPage.xaml.cs for edits to how commands work/message formatting.
 
