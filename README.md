@@ -14,11 +14,13 @@ Message Style: I use a non-standard protocol in this for transmission, but it ca
 When using the xbox controller, the formatting of the message is:
 * " P=(Pin) l=(PWM_value)  P=(Pin) r=(PWM_value)", with PWM values between -10,000 and 10,000
 
-I will try to comment at all location this style is used to simplify the adjustment of the code.
+There is now 2 options, and you can add options of your own by editing the source!
 
-Controller Usage: Once connected, clicking the "XBOX" button will connect any Xbox One Controller currently plugged in/connected to the PC.
+Controller Usage: Once connected, clicking the "Connect Xbox Controller" button will connect any Xbox One Controller currently plugged in/connected to the PC.
 
 UI Usage: Start by connecting (IP and port), then enter your PIN into the box before attempting to send commands. Once connected, the other buttons will make themselves available. The forward/left/right/back commands require the time text box to contain the time length you want. The xbox controller system doesn't use the time variable, instead creating the PWM values.
+
+Pick a communication protocol, up to you as to what you use.
     
 A couple notes for those who want to use this:
 1. There is no guarantee this works with your car. I made it to work for mine, and I don't have all the error codes needed to prepare this for other situations.

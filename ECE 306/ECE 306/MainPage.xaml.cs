@@ -70,6 +70,26 @@ namespace ECE_306
 
     public sealed partial class MainPage : Page
     {
+        public static class Globals
+        {
+            public static bool controller_loop = true;
+            public struct Command
+            {
+                public char command_message;
+                public string time;
+            }
+            public struct Command_list
+            {
+                public string pin;
+                public Command item_one;
+                public Command item_two;
+                public Command item_three;
+            }
+            public static Command_list command_queue;
+            public static string manual_message;
+        }
+
+
         private Gamepad _Gamepad = null;
 
         private async void btnConnect_Click(object sender,
@@ -77,7 +97,6 @@ namespace ECE_306
         {
             Gamepad.GamepadAdded += Gamepad_GamepadAdded;
             Gamepad.GamepadRemoved += Gamepad_GamepadRemoved;
-
             while (true)
             {
                 //sets up an asynchronous task that will run in parallel with the rest of the program.
@@ -99,7 +118,7 @@ namespace ECE_306
                                double rightStickY = reading.RightThumbstickY; //returns value between -1 and 1
 
                                // choose a deadzone -- readings inside this radius are ignored.
-                               const double deadzoneRadius = 0.09;
+                               const double deadzoneRadius = 0.15;
                                const double deadzoneSquared = deadzoneRadius * deadzoneRadius;
 
                                // Pythagorean theorem -- for a right triangle, hypotenuse^2 = (opposite side)^2 + (adjacent side)^2
@@ -184,23 +203,45 @@ namespace ECE_306
 
                                int PWM_Left = Convert.ToInt16(leftStickY * 10000); //the 10,000 values are my wheel period.
                                int PWM_Right = Convert.ToInt16(rightStickY * 10000);
-                               string myMessage = "";
-                               string lastMessage = "";
-
-                               //The next two lines are related to the message formatting, if you follow a different protocol.
-                               myMessage += " P=" + pin_input.Password + " l=" + Convert.ToString(PWM_Left);
-                               myMessage += " P=" + pin_input.Password + " r=" + Convert.ToString(PWM_Right);
-
-                               if (lastMessage != myMessage)
+                               int command_length = 0;
+                               if ((reading.Buttons & GamepadButtons.A) == GamepadButtons.A)
                                {
-                                   lastMessage = myMessage;
-                                   my_message_test.Text = myMessage;
-                                   send_message(myMessage);
+                                   Globals.controller_loop = false;
+                                   int arc_travel_time_int = Convert.ToInt16(arc_travel_time.Text);
+                                   clear_queue();
+                                   Globals.command_queue.item_one.command_message = 'A';
+                                   Globals.command_queue.item_one.time = arc_travel_time.Text;
+                                   Globals.command_queue.item_two.command_message = 'D';
+                                   Globals.command_queue.item_two.time = "0";
+                                   command_length = 1; //Edit message formatting here
+                               }
+                               else if((reading.Buttons & GamepadButtons.X) == GamepadButtons.X)
+                               {
+                                   clear_queue();
+                                   Globals.command_queue.item_one.command_message = 'X';
+                                   Globals.command_queue.item_one.time = time_input.Text;
+                                   command_length = 1; //Edit message formatting here
+                               }
+                               else
+                               {
+                                   //The next two lines are related to the message formatting, if you follow a different protocol.
+                                   clear_queue();
+                                   Globals.command_queue.item_one.command_message = 'l';
+                                   Globals.command_queue.item_one.time = Convert.ToString(PWM_Left);
+                                   Globals.command_queue.item_two.command_message = 'r';
+                                   Globals.command_queue.item_two.time = Convert.ToString(PWM_Right);
+                                   command_length = 2; //Edit message formatting here
+                               }
+                               if(Globals.controller_loop == true && command_length != 0)
+                               {
+                                   send_message(command_length);
                                }
 
-                           });
 
-                await Task.Delay(TimeSpan.FromMilliseconds(200));
+                           });
+                    await Task.Delay(TimeSpan.FromMilliseconds(200));
+
+
             }
         }
 
@@ -213,7 +254,7 @@ namespace ECE_306
             await Dispatcher.RunAsync(
                                CoreDispatcherPriority.Normal, () =>
                                {
-                                   tbConnected.Text = "Controller removed";
+                                   //tbConnected.Text = "Controller removed";
                                });
         }
         //deals with controller connects, unchanged from where I found it.
@@ -225,7 +266,7 @@ namespace ECE_306
             await Dispatcher.RunAsync(
                          CoreDispatcherPriority.Normal, () =>
                          {
-                             tbConnected.Text = "Controller added";
+                             //tbConnected.Text = "Controller added";
                          });
         }
 
@@ -271,20 +312,69 @@ namespace ECE_306
         }
 
         // Send a request to the IOT device. Holds error handling, but only to tell you of a disconnect, not to fix it.
-        public async void send_message(string message)
+        public async void send_message(int command_count)
         {
+            string the_message = "";
+            if (message_type.SelectedIndex == 0)
+            {
+
+                the_message = "^" + pin_input.Password + Globals.command_queue.item_one.command_message + Globals.command_queue.item_one.time;
+                if(command_count >= 2)
+                {
+                    the_message += " " + "^" + pin_input.Password + Globals.command_queue.item_two.command_message + Globals.command_queue.item_two.time;
+                }
+                if(command_count == 3)
+                {
+                    the_message += " " + "^" + pin_input.Password + Globals.command_queue.item_three.command_message + Globals.command_queue.item_three.time;
+
+                }
+                if (command_count == -1)
+                {
+                    the_message = Globals.manual_message;
+                }
+            } else if(message_type.SelectedIndex == 1) {
+
+                the_message = " P=" + pin_input.Password + " " + Globals.command_queue.item_one.command_message + "=" + Globals.command_queue.item_one.time;
+                if(command_count >= 2)
+                {
+                    the_message += " P=" + pin_input.Password + " " + Globals.command_queue.item_two.command_message + "=" + Globals.command_queue.item_two.time;
+                }
+                if(command_count == 3)
+                {
+                    the_message += " P=" + pin_input.Password + " " + Globals.command_queue.item_three.command_message + "=" + Globals.command_queue.item_three.time;
+                }
+                if (command_count == -1)
+                {
+                    the_message = Globals.manual_message;
+                }
+            }
+
+
+
             try
             {
-                await streamWriter.WriteLineAsync(" " + message);
+                
+                await streamWriter.WriteLineAsync(the_message);
                 await streamWriter.FlushAsync();
-                this.log_list_box.Items.Add(string.Format("client sent the request: \"{0}\"", message));
+                this.log_list_box.Items.Add(string.Format("client sent the request: \"{0}\"", the_message));
             }
             catch (Exception ex)
             {
                 Windows.Networking.Sockets.SocketErrorStatus webErrorStatus = Windows.Networking.Sockets.SocketError.GetStatus(ex.GetBaseException().HResult);
                 this.log_list_box.Items.Add(webErrorStatus.ToString() != "Unknown" ? webErrorStatus.ToString() : ex.Message);
                 connection_status.Text = "Connection Lost";
+                StartClient(ip_addr_input.Text, port_input.Password);
             }
+        }
+
+        private void clear_queue()
+        {
+            Globals.command_queue.item_one.command_message = ' ';
+            Globals.command_queue.item_one.time = "0";
+            Globals.command_queue.item_two.command_message = ' ';
+            Globals.command_queue.item_two.time = "0";
+            Globals.command_queue.item_three.command_message = ' ';
+            Globals.command_queue.item_three.time = "0";
         }
 
         public MainPage()
@@ -304,32 +394,60 @@ namespace ECE_306
         //Sends forward command 'F' with the time value specified
         private void forward_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message("P=" + pin_input.Password + " F=" + time_input.Text); //Edit message formatting here
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'F';
+            Globals.command_queue.item_one.time = time_input.Text;
+            send_message(1); //Edit message formatting here
         }
 
         private void backwards_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message("P=" + pin_input.Password + " B=" + time_input.Text); //Edit message formatting here
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'B';
+            Globals.command_queue.item_one.time = time_input.Text;
+            send_message(1); //Edit message formatting here
         }
 
         private void left_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message("P=" + pin_input.Password + " L=" + time_input.Text); //Edit message formatting here
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'L';
+            Globals.command_queue.item_one.time = time_input.Text;
+            send_message(1); //Edit message formatting here
         }
 
         private void right_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message("P=" + pin_input.Password + " R=" + time_input.Text); //Edit message formatting here
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'R';
+            Globals.command_queue.item_one.time = time_input.Text;
+            send_message(1); //Edit message formatting here
         }
 
         private void kill_motor_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message("P=" + pin_input.Password + " X=" + time_input.Text); //Edit message formatting here
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'X';
+            Globals.command_queue.item_one.time = time_input.Text;
+            send_message(1); //Edit message formatting here
         }
 
         private void manual_button_send_Click(object sender, RoutedEventArgs e)
         {
-            send_message(manual_command_textbox.Text); 
+            Globals.controller_loop = false;
+            Globals.manual_message = manual_command_textbox.Text;
+            send_message(-1);
+
+        }
+
+        private void final_command_Click(object sender, RoutedEventArgs e)
+        {
+            clear_queue();
+            Globals.command_queue.item_one.command_message = 'A';
+            Globals.command_queue.item_one.time = arc_travel_time.Text;
+            Globals.command_queue.item_two.command_message = 'D';
+            Globals.command_queue.item_two.time = "0";
+            send_message(2);
         }
     }
 }

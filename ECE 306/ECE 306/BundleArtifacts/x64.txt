@@ -1,2 +1,2 @@
-MainPackage=C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x64\Debug\ECE 306_1.0.3.0_x64_Debug.appx
-SymbolPackage=C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\AppPackages\ECE 306_1.0.3.0_Debug_Test\ECE 306_1.0.3.0_x64_Debug.appxsym
+MainPackage=C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x64\Debug\ECE 306_2.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\AppPackages\ECE 306_2.0.0.0_Debug_Test\ECE 306_2.0.0.0_x64_Debug.appxsym

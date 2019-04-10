@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>C8601230214C3A3FFCCEC54E33829E313AECA42971E2E1AF9A370EF6FE95025E</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_1.0.2.0_x86__fpxhmmgger0my</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>7DF8955223338521969BEE3899D6BB3FFA1B28C40EA890E576669FBB11C2D5F1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_2.0.0.0_x86__fpxhmmgger0my</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6e32ed5f-dfef-49a0-82a3-2e3011717d9d_fpxhmmgger0my!App</RegisteredUserModeAppID>
     <RegisteredPackageID>6e32ed5f-dfef-49a0-82a3-2e3011717d9d</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Ziggleflig</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+    <RegisteredVersion>2.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-25T18:30:55.446</Modified>
+      <Modified>2019-04-10T00:24:09.176</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.exe">
       <PackagePath>entrypoint\ECE 306.exe</PackagePath>
-      <Modified>2018-11-25T18:30:52.036</Modified>
+      <Modified>2019-04-10T00:24:08.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ziggleflig\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -535,7 +535,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\ECE 306.xr.xml">
       <PackagePath>ECE 306.xr.xml</PackagePath>
-      <Modified>2018-11-25T04:47:31.687</Modified>
+      <Modified>2019-04-10T00:19:42.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -544,11 +544,11 @@
     <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-25T18:30:54.620</Modified>
+      <Modified>2019-04-10T00:19:43.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ziggleflig\source\repos\ECE 306\ECE 306\bin\x86\Debug\Core\ECE 306.exe">
       <PackagePath>ECE 306.exe</PackagePath>
-      <Modified>2018-11-25T18:30:55.409</Modified>
+      <Modified>2019-04-10T00:24:09.163</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

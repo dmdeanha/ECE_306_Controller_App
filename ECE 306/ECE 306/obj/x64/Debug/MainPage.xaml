@@ -7,49 +7,50 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d" Width="840" MaxWidth="840" MaxHeight="640" MinHeight="640" MinWidth="840" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch">
 
-    <Grid x:ConnectionId='1' x:Name="background" Background="White">
-        <StackPanel Margin="23,0,0,98" Height="205" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="212">
-            <Button x:ConnectionId='23' Name="btnConnect" 
-            Content="XBOX" 
+    <Grid x:ConnectionId='1' x:Name="background" Background="White" ScrollViewer.VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="23,0,0,243" Height="60" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="212">
+            <Button x:ConnectionId='28' Name="btnConnect" 
+            Content="Connect Xbox Controller" 
             FontSize="20" 
-                                     IsEnabled="False" />
-
-            <TextBlock x:ConnectionId='24' Name="tbConnected" 
+                                     IsEnabled="False" Margin="0,0,-30,0" Width="242" />
+            <StackPanel>
+                <TextBlock x:ConnectionId='29' Name="tbConnected" 
                Text="-" />
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Left Trigger" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='31' Name="tbLeftTrigger" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Left Trigger" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='36' Name="tbLeftTrigger" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Right Trigger" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='30' Name="tbRightTrigger" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Right Trigger" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='35' Name="tbRightTrigger" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Lft Thumbstick X" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='29' Name="tbLeftThumbstickX" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Lft Thumbstick X" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='34' Name="tbLeftThumbstickX" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Lft Thumbstick Y" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='28' Name="tbLeftThumbstickY" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Lft Thumbstick Y" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='33' Name="tbLeftThumbstickY" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Rgt Thumbstick X" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='27' Name="tbRightThumbstickX" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Rgt Thumbstick X" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='32' Name="tbRightThumbstickX" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Rgt Thumbstick Y" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='26' Name="tbRightThumbstickY" />
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Rgt Thumbstick Y" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='31' Name="tbRightThumbstickY" />
+                </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Buttons" Margin="0,0,10,0" />
-                <TextBlock x:ConnectionId='25' Name="tbButtons" />
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Buttons" Margin="0,0,10,0" />
+                    <TextBlock x:ConnectionId='30' Name="tbButtons" />
+                </StackPanel>
             </StackPanel>
         </StackPanel>
 
@@ -57,36 +58,44 @@
 
 
 
-        <PasswordBox x:ConnectionId='2' x:Name="pin_input" HorizontalAlignment="Left" Margin="280,101,0,0" VerticalAlignment="Top" Width="128" Height="35" FontSize="18"/>
-        <TextBlock x:ConnectionId='3' x:Name="pin_label" HorizontalAlignment="Left" Margin="328,72,0,0" Text="PIN" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="29" FontSize="18"/>
-        <PasswordBox x:ConnectionId='4' x:Name="port_input" HorizontalAlignment="Left" Margin="113,77,0,0" VerticalAlignment="Top" Width="128" Height="35" FontSize="18"/>
-        <TextBlock x:ConnectionId='5' x:Name="ip_addr_label" HorizontalAlignment="Left" Margin="23,29,0,0" Text="IP Address" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="66" FontSize="18" />
-        <TextBox x:ConnectionId='6' x:Name="ip_addr_input" HorizontalAlignment="Left" Margin="71,23,0,0" Text="192.168.2.56" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" Width="170" d:LayoutRounding="Auto" Height="36" FontSize="18">
+        <PasswordBox x:ConnectionId='2' x:Name="pin_input" HorizontalAlignment="Left" Margin="158,152,0,0" VerticalAlignment="Top" Width="128" Height="35" FontSize="18" Password="BOOYAH"/>
+        <TextBlock x:ConnectionId='3' x:Name="pin_label" HorizontalAlignment="Left" Margin="23,160,0,0" Text="PIN" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="29" FontSize="18"/>
+        <PasswordBox x:ConnectionId='4' x:Name="port_input" HorizontalAlignment="Left" Margin="158,112,0,0" VerticalAlignment="Top" Width="128" Height="35" FontSize="18" Password="9947"/>
+        <TextBlock x:ConnectionId='5' x:Name="ip_addr_label" HorizontalAlignment="Left" Margin="23,77,0,0" Text="IP Address" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="66" FontSize="18" />
+        <TextBox x:ConnectionId='6' x:Name="ip_addr_input" HorizontalAlignment="Left" Margin="116,71,0,0" Text="10.153.46.93" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" Width="170" d:LayoutRounding="Auto" Height="36" FontSize="18">
             <TextBox.RenderTransform>
                 <CompositeTransform SkewY="-0.023" TranslateY="-0.2"/>
             </TextBox.RenderTransform>
         </TextBox>
-        <Button x:ConnectionId='7' x:Name="connect_button" Content="Connect" HorizontalAlignment="Left" Margin="156,126,0,0" VerticalAlignment="Top"                              Height="36" Width="86" FontSize="18"/>
-        <TextBox x:ConnectionId='8' x:Name="time_input" HorizontalAlignment="Left" Margin="283,253,0,0" Text="" VerticalAlignment="Top" Width="118" Height="36" FontSize="18"/>
-        <TextBlock x:ConnectionId='9' x:Name="time_value_label" HorizontalAlignment="Left" Margin="236,260,0,0" Text="Time Value" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="41" FontSize="18"/>
-        <Button x:ConnectionId='10' x:Name="forward_send" Content="Forward" HorizontalAlignment="Left" Margin="586,76,0,0" VerticalAlignment="Top" Height="68" Width="122"                            FontSize="20" IsEnabled="False"/>
-        <Button x:ConnectionId='11' x:Name="backwards_send" Content="Backward" HorizontalAlignment="Left" Margin="586,151,0,0" VerticalAlignment="Top" Height="68" Width="122"                              FontSize="20" IsEnabled="False"/>
-        <Button x:ConnectionId='12' x:Name="right_send" Content="Right" HorizontalAlignment="Left" Margin="714,151,0,0" VerticalAlignment="Top" Height="68" Width="116"                          FontSize="20" IsEnabled="False"/>
-        <Button x:ConnectionId='13' x:Name="left_send" Content="Left" HorizontalAlignment="Left" Margin="464,151,0,0" VerticalAlignment="Top" Height="68" Width="116"                         FontSize="20" IsEnabled="False"/>
-        <Button x:ConnectionId='14' x:Name="kill_motor_send" Content="Kill Motors" HorizontalAlignment="Left" Margin="464,225,0,0" VerticalAlignment="Top" Height="72" Width="366"                               FontSize="20" IsEnabled="False"/>
-        <TextBlock x:ConnectionId='15' x:Name="port_label" HorizontalAlignment="Left" Margin="23,82,0,0" Text="Port" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="43" FontSize="18"/>
+        <Button x:ConnectionId='7' x:Name="connect_button" Content="Connect" HorizontalAlignment="Left" Margin="200,192,0,0" VerticalAlignment="Top"                              Height="36" Width="86" FontSize="18"/>
+        <TextBox x:ConnectionId='8' x:Name="time_input" HorizontalAlignment="Left" Margin="455,125,0,0" Text="" VerticalAlignment="Top" Width="118" Height="36" FontSize="18"/>
+        <TextBlock x:ConnectionId='9' x:Name="time_value_label" HorizontalAlignment="Left" Margin="490,93,0,0" Text="Time Value" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="41" FontSize="18"/>
+        <Button x:ConnectionId='10' x:Name="forward_send" Content="Forward" HorizontalAlignment="Left" Margin="586,104,0,0" VerticalAlignment="Top" Height="68" Width="122"                            FontSize="20" IsEnabled="False"/>
+        <Button x:ConnectionId='11' x:Name="backwards_send" Content="Backward" HorizontalAlignment="Left" Margin="586,179,0,0" VerticalAlignment="Top" Height="68" Width="122"                              FontSize="20" IsEnabled="False"/>
+        <Button x:ConnectionId='12' x:Name="right_send" Content="Right" HorizontalAlignment="Left" Margin="714,179,0,0" VerticalAlignment="Top" Height="68" Width="116"                          FontSize="20" IsEnabled="False"/>
+        <Button x:ConnectionId='13' x:Name="left_send" Content="Left" HorizontalAlignment="Left" Margin="464,179,0,0" VerticalAlignment="Top" Height="68" Width="116"                         FontSize="20" IsEnabled="False"/>
+        <Button x:ConnectionId='14' x:Name="kill_motor_send" Content="Kill Motors" HorizontalAlignment="Left" Margin="464,253,0,0" VerticalAlignment="Top" Height="72" Width="366"                               FontSize="20" IsEnabled="False"/>
+        <TextBlock x:ConnectionId='15' x:Name="port_label" HorizontalAlignment="Left" Margin="23,117,0,0" Text="Port" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="43" FontSize="18"/>
         <Grid Height="77" Margin="0,563,0,0" Width="1024">
             <RelativePanel>
-                <Grid x:ConnectionId='21' x:Name="status_block" Background="#FFCC0000" Height="77" VerticalAlignment="Top" Margin="0,0,-842,0"/>
-                <TextBlock x:ConnectionId='22' x:Name="connection_status" Margin="9,14,0,12" Text="Status: Disconnected" TextWrapping="Wrap" VerticalAlignment="Center" Height="51" FontSize="36" FontFamily="Arial Black" FontWeight="Bold" Foreground="White"/>
+                <Grid x:ConnectionId='26' x:Name="status_block" Background="#FFCC0000" Height="77" VerticalAlignment="Top" Margin="0,0,-842,0"/>
+                <TextBlock x:ConnectionId='27' x:Name="connection_status" Margin="9,14,0,12" Text="Status: Disconnected" TextWrapping="Wrap" VerticalAlignment="Center" Height="51" FontSize="36" FontFamily="Arial Black" FontWeight="Bold" Foreground="White"/>
             </RelativePanel>
         </Grid>
-        <ListBox x:ConnectionId='16' x:Name="log_list_box" HorizontalAlignment="Left" Height="183" Margin="280,318,0,0" VerticalAlignment="Top" Width="554" RequestedTheme="Light"/>
+        <ListBox x:ConnectionId='16' x:Name="log_list_box" HorizontalAlignment="Left" Height="133" Margin="455,387,0,0" VerticalAlignment="Top" Width="375" RequestedTheme="Light"/>
         <TextBlock x:ConnectionId='17' x:Name="my_message_block" HorizontalAlignment="Left" Margin="318,29,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <TextBlock x:ConnectionId='18' x:Name="my_message_test" HorizontalAlignment="Left" Margin="280,522,0,0" Text="No Message" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='18' x:Name="my_message_test" HorizontalAlignment="Left" Margin="401,536,0,0" Text="No Message" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBox x:ConnectionId='19' x:Name="manual_command_textbox" HorizontalAlignment="Left" Margin="386,29,0,0" Text="" VerticalAlignment="Top" Width="322"/>
         <TextBlock HorizontalAlignment="Left" Margin="318,33,0,0" Text="Manual:" TextWrapping="Wrap" VerticalAlignment="Top" Height="28"/>
         <Button x:ConnectionId='20' x:Name="manual_button_send" Content="Send" HorizontalAlignment="Left" Margin="729,29,0,0" VerticalAlignment="Top"                                 />
+        <TextBlock HorizontalAlignment="Left" Margin="23,253,0,0" Text="Arc Travel Time:" TextWrapping="Wrap" VerticalAlignment="Top" Height="28"/>
+        <TextBox x:ConnectionId='21' x:Name="arc_travel_time" HorizontalAlignment="Left" Margin="190,247,0,0" Text="120" VerticalAlignment="Top" Width="97"/>
+        <Button x:ConnectionId='22' x:Name="final_command" Content="Sent the Great Final Command" HorizontalAlignment="Left" Margin="23,284,0,0" VerticalAlignment="Top" Height="34" Width="264"                            />
+        <TextBlock HorizontalAlignment="Left" Margin="200,536,0,0" Text="Current Output Message:" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <ComboBox x:ConnectionId='23' x:Name="message_type" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="23,28,0,0" Width="263" PlaceholderText="Command Format">
+            <ComboBoxItem x:ConnectionId='24' Name="carlson">^(pin)(command)(time)</ComboBoxItem>
+            <ComboBoxItem x:ConnectionId='25' Name="darian"> P=(pin) (command)=(time)</ComboBoxItem>
+        </ComboBox>
 
     </Grid>
 </Page>

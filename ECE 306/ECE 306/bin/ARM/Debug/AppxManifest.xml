@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="6e32ed5f-dfef-49a0-82a3-2e3011717d9d" Publisher="CN=Ziggleflig" Version="1.0.3.0" ProcessorArchitecture="arm" />
+  <Identity Name="6e32ed5f-dfef-49a0-82a3-2e3011717d9d" Publisher="CN=Ziggleflig" Version="2.0.0.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="6e32ed5f-dfef-49a0-82a3-2e3011717d9d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ECE 306</DisplayName>
