@@ -3,6 +3,8 @@ Application for the network control of a vehicle we create in ECE 306 at NC Stat
 
 This application is used for the remote control of the ECE 306 RC Cars.
 
+IF YOU JUST WANT TO INSTALL: Go to ECE_306_Controller_App/ECE 306/ECE 306/AppPackages/ECE 306_2.0.0.0_Debug_Test/Add-AppDevPackage.ps1 and run that with powershell.
+
 For edits, the 2 files you have to change are MainPage.xaml for design changes, or MainPage.xaml.cs for edits to how commands work/message formatting.
 
 This application was made using Microsoft Visual Studio 2017, using the blank template for a Visual C# UWP Application. Because of this, this program will only work on Windows 10, theoretically any version of it, although I have only tested with the most recent update.
